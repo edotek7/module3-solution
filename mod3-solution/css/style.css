@@ -1,0 +1,33 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #fffaf0;
+	font-size: 16px;
+	color: black;
+	font-family: 'Oxygen', sans-serif;
+}
+/*Font-color: #343a40*/
+#nav-list a{
+	text-align:center;
+	color: white;
+}
+#nav-list a:hover {
+	background: #8b0000;
+}
+h1 {
+	text-align: center;
+	margin-top:15px;
+	margin-bottom: 15;
+	font-family: 'bangers', cursive;
+
+}
+
+.row > div > section {
+	background-color: #343a40;
+	text-align: justify;
+	padding:20px;
+	color: white;
+	margin-top:20px;
+	margin-bottom:20px;
+}
